@@ -1,0 +1,43 @@
+.App {
+    text-align: center;
+}
+
+.App-header {
+    background-color: #222;
+    height: 50px;
+    padding-top: 1px;
+    padding-bottom: 5px;
+    color: white;
+}
+
+.App-title {
+    font-size: 1.5em;
+    font-family: 'Unica One', cursive;
+}
+
+.App-intro {
+    font-size: large;
+}
+
+body {
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 1.2em;
+    text-align: left;
+}
+
+.rt-td{
+    cursor: pointer;
+}
+
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.plot {
+    display: inline-block;
+}
